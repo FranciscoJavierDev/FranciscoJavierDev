@@ -7,7 +7,7 @@
 </div>
 
 
-## 🚀 Sobre mí
+##  Sobre de mí
 
 
 -  **Estudiante de Programación** enfocado en Desarrollo de Software.
